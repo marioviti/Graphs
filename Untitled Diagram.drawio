@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T09:02:38.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="MM5m5jfDwsapWIJMnVK-" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T08:43:02.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.66" etag="i35BU8yo8epZjr-IV6-S" version="14.4.4" type="github">
   <diagram id="NHQl6QHxQ5nZneb_xlHu" name="Page-1">
     <mxGraphModel dx="1718" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,13 +94,13 @@
             <mxPoint x="380" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0490pK50bpzndYRj-9jW-46" value="proximal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="0490pK50bpzndYRj-9jW-46" value="proximal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="645" y="486" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0490pK50bpzndYRj-9jW-47" value="median" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="0490pK50bpzndYRj-9jW-47" value="median" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="365" y="486" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0490pK50bpzndYRj-9jW-49" value="distal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="0490pK50bpzndYRj-9jW-49" value="distal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="125" y="486" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
